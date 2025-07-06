@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ramez<br>I'm a developer learning about the world of cloud computing and DevOps. I love automating things (looking at you, deployments), and I'm currently improving my skills through projects.<br><br>🔭 I'm kicking off a full CI/CD pipeline from scratch<br>👯 I’m looking to collaborate on developer tools and DevOps-focused projects<br>🌱 I’m currently learning Cloud-native development, CI/CD automation<br>📫 How to reach me ramezemad2002@gmail.com<br>
+Hi 👋, I'm Ramez<br>I'm a backend development intern with a passion for building systems<br><br>💡 I open to learn mew technologies and deepen my knowledge<br>🛠️ I’m currently focused on improving my skills in API development, system design, and DevOps basics.<br>📫 How to reach me ramezemad2002@gmail.com<br>
 
 
 # 💻 Tech Stack:
