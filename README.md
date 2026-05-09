@@ -1,6 +1,33 @@
-# 💫 About Me:
-Hi 👋, I'm Ramez<br>I'm a developer learning about the world of cloud computing and DevOps. I love automating things (looking at you, deployments), and I'm currently improving my skills through projects.<br><br>🔭 I'm kicking off a full CI/CD pipeline from scratch<br>👯 I’m looking to collaborate on developer tools and DevOps-focused projects<br>🌱 I’m currently learning Cloud-native development, CI/CD automation<br>📫 How to reach me ramezemad2002@gmail.com<br>
+# Hi there, I'm Ramez 👋
 
+Software Engineering student passionate about building scalable systems, backend applications, and Linux-based solutions.
+I enjoy working across the stack — from system-level programming and distributed backend services to automotive HMI development and deployment workflows.
+
+## 🚀 What I Work With
+
+* **Languages:** C++, Java, Python, SQL
+* **Frameworks & Tools:** Spring Boot, Qt/QML, Docker, Git, CMake
+* **Platforms:** Linux, Automotive Grade Linux (AGL), Raspberry Pi
+* **Concepts:** REST APIs, Distributed Systems, Embedded Systems, DevOps workflows, System Programming
+
+## 🔧 Interests
+
+* Backend & distributed systems
+* Linux system programming
+* DevOps and containerized environments
+* Automotive software & embedded systems
+* CI/CD and deployment automation
+
+## 📌 Current Focus
+
+Currently exploring deeper DevOps practices, cloud-native workflows, monitoring systems, and scalable backend architectures while building projects that combine software engineering with embedded and automotive technologies.
+
+## 📂 Featured Projects
+
+* **Feature on Demand Automotive Framework** — Automotive HMI, ECU communication, WebSockets, mTLS, AGL deployment
+* **Distributed Online Marketplace System** — Spring Boot multi-layered backend architecture
+* **Quoridor AI Game** — C++/Qt strategy game with Minimax AI
+* **Linux Utilities & Shells** — System programming and Unix workflow tools
 
 
 # 💻 Tech Stack:
